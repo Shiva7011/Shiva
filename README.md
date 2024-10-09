@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Shiva Singh</h1>
+<h1 align="center">Hello 👋, I'm Shiva Singh</h1> 
 <h3 align="center">A passionate Software developer.</h3>
 
 - 🌱 I’m currently Exploring My Skills On **Open Source Projects**
